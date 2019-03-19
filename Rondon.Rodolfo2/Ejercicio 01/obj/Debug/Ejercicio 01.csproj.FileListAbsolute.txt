@@ -1,0 +1,7 @@
+D:\VisualStudio\Rondon.Rodolfo\Ejercicio 01\bin\Debug\Ejercicio 01.exe.config
+D:\VisualStudio\Rondon.Rodolfo\Ejercicio 01\bin\Debug\Ejercicio 01.exe
+D:\VisualStudio\Rondon.Rodolfo\Ejercicio 01\bin\Debug\Ejercicio 01.pdb
+D:\VisualStudio\Rondon.Rodolfo\Ejercicio 01\obj\Debug\Ejercicio 01.csprojAssemblyReference.cache
+D:\VisualStudio\Rondon.Rodolfo\Ejercicio 01\obj\Debug\Ejercicio 01.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Rondon.Rodolfo\Ejercicio 01\obj\Debug\Ejercicio 01.exe
+D:\VisualStudio\Rondon.Rodolfo\Ejercicio 01\obj\Debug\Ejercicio 01.pdb
