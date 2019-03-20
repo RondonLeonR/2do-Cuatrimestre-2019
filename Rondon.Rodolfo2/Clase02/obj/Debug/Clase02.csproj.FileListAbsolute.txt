@@ -1,0 +1,7 @@
+D:\VisualStudio\Rondon.Rodolfo\Clase02\obj\Debug\Clase02.csprojAssemblyReference.cache
+D:\VisualStudio\Rondon.Rodolfo\Clase02\obj\Debug\Clase02.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Rondon.Rodolfo\Clase02\bin\Debug\Clase02.exe.config
+D:\VisualStudio\Rondon.Rodolfo\Clase02\bin\Debug\Clase02.exe
+D:\VisualStudio\Rondon.Rodolfo\Clase02\bin\Debug\Clase02.pdb
+D:\VisualStudio\Rondon.Rodolfo\Clase02\obj\Debug\Clase02.exe
+D:\VisualStudio\Rondon.Rodolfo\Clase02\obj\Debug\Clase02.pdb
