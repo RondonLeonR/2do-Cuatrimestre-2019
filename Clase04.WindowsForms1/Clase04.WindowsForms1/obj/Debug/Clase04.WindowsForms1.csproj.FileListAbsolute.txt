@@ -1,0 +1,9 @@
+D:\VisualStudio\Clase04.WindowsForms1\Clase04.WindowsForms1\bin\Debug\Clase04.WindowsForms1.exe.config
+D:\VisualStudio\Clase04.WindowsForms1\Clase04.WindowsForms1\bin\Debug\Clase04.WindowsForms1.exe
+D:\VisualStudio\Clase04.WindowsForms1\Clase04.WindowsForms1\bin\Debug\Clase04.WindowsForms1.pdb
+D:\VisualStudio\Clase04.WindowsForms1\Clase04.WindowsForms1\obj\Debug\Clase04.WindowsForms1.Properties.Resources.resources
+D:\VisualStudio\Clase04.WindowsForms1\Clase04.WindowsForms1\obj\Debug\Clase04.WindowsForms1.csproj.GenerateResource.cache
+D:\VisualStudio\Clase04.WindowsForms1\Clase04.WindowsForms1\obj\Debug\Clase04.WindowsForms1.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Clase04.WindowsForms1\Clase04.WindowsForms1\obj\Debug\Clase04.WindowsForms1.exe
+D:\VisualStudio\Clase04.WindowsForms1\Clase04.WindowsForms1\obj\Debug\Clase04.WindowsForms1.pdb
+D:\VisualStudio\Clase04.WindowsForms1\Clase04.WindowsForms1\obj\Debug\Clase04.WindowsForms1.FormCosa.resources

@@ -1,0 +1,7 @@
+D:\VisualStudio\Rondon.Rodolfo\Rondon.Rodolfo\bin\Debug\Rondon.Rodolfo.exe.config
+D:\VisualStudio\Rondon.Rodolfo\Rondon.Rodolfo\bin\Debug\Rondon.Rodolfo.exe
+D:\VisualStudio\Rondon.Rodolfo\Rondon.Rodolfo\bin\Debug\Rondon.Rodolfo.pdb
+D:\VisualStudio\Rondon.Rodolfo\Rondon.Rodolfo\obj\Debug\Rondon.Rodolfo.csprojAssemblyReference.cache
+D:\VisualStudio\Rondon.Rodolfo\Rondon.Rodolfo\obj\Debug\Rondon.Rodolfo.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Rondon.Rodolfo\Rondon.Rodolfo\obj\Debug\Rondon.Rodolfo.exe
+D:\VisualStudio\Rondon.Rodolfo\Rondon.Rodolfo\obj\Debug\Rondon.Rodolfo.pdb
