@@ -1,0 +1,7 @@
+D:\VisualStudio\Clase05.Entidades\Clase05.Entidades\obj\Debug\Clase05.Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\Clase05.Entidades\Clase05.Entidades\obj\Debug\Clase05.Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Clase05.Entidades\Clase05.Entidades\bin\Debug\Clase05.Entidades.pdb
+D:\VisualStudio\Clase05.Entidades\Clase05.Entidades\obj\Debug\Clase05.Entidades.pdb
+D:\VisualStudio\Clase05.Entidades\Clase05.Entidades\bin\Debug\Clase05.Entidades.dll.config
+D:\VisualStudio\Clase05.Entidades\Clase05.Entidades\bin\Debug\Clase05.Entidades.dll
+D:\VisualStudio\Clase05.Entidades\Clase05.Entidades\obj\Debug\Clase05.Entidades.dll
