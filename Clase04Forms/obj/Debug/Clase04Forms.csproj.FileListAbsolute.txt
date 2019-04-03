@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Rondon.Rodolfo\Clase04Forms\bin\Debug\Clase04Forms.exe.config
+C:\Users\user\source\repos\Rondon.Rodolfo\Clase04Forms\bin\Debug\Clase04Forms.exe
+C:\Users\user\source\repos\Rondon.Rodolfo\Clase04Forms\bin\Debug\Clase04Forms.pdb
+C:\Users\user\source\repos\Rondon.Rodolfo\Clase04Forms\obj\Debug\Clase04Forms.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Rondon.Rodolfo\Clase04Forms\obj\Debug\Clase04Forms.FormCosa.resources
+C:\Users\user\source\repos\Rondon.Rodolfo\Clase04Forms\obj\Debug\Clase04Forms.Properties.Resources.resources
+C:\Users\user\source\repos\Rondon.Rodolfo\Clase04Forms\obj\Debug\Clase04Forms.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Rondon.Rodolfo\Clase04Forms\obj\Debug\Clase04Forms.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Rondon.Rodolfo\Clase04Forms\obj\Debug\Clase04Forms.exe
+C:\Users\user\source\repos\Rondon.Rodolfo\Clase04Forms\obj\Debug\Clase04Forms.pdb
+C:\Users\user\source\repos\Rondon.Rodolfo\Clase04Forms\bin\Debug\Clase04.exe
+C:\Users\user\source\repos\Rondon.Rodolfo\Clase04Forms\bin\Debug\Clase04.pdb
+C:\Users\user\source\repos\Rondon.Rodolfo\Clase04Forms\bin\Debug\Clase04.exe.config
+C:\Users\user\source\repos\Rondon.Rodolfo\Clase04Forms\obj\Debug\Clase04Forms.csproj.CopyComplete
