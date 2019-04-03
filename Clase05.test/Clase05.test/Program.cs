@@ -14,9 +14,10 @@ namespace Clase05.test
             string s1, s2;
             Tinta ejem1 = new Tinta();
             Tinta ejem2 = new Tinta(ConsoleColor.Cyan);
-            Tinta ejem3 = new Tinta(ConsoleColor.DarkGreen,ETipoTinta.conBrillo);
+            Tinta ejem3 = new Tinta(ConsoleColor.DarkMagenta,ETipoTinta.conBrillo);
 
             Pluma pluma1 = new Pluma("BIC", ejem3, 20);
+
             Pluma pluma2 = new Pluma();
 
             Tinta ejem4 = new Tinta();
@@ -25,7 +26,7 @@ namespace Clase05.test
             s1 = pluma1;
             Console.WriteLine(s1);
              
-            pluma2 = pluma1 + ejem2;
+            pluma2 = pluma1 - ejem3;
             s2 = pluma2;
             Console.WriteLine(s2);
 
@@ -44,7 +45,6 @@ namespace Clase05.test
             Console.WriteLine(Tinta.Mostrar(ejem2));
             Console.WriteLine(Tinta.Mostrar(ejem3));
 
-            
             
             Console.ReadKey();
         }

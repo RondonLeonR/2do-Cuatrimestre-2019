@@ -70,6 +70,15 @@ namespace Clase05.Entidades
             return p1;
         }
 
+        public static Pluma operator - (Pluma p1, Tinta t1)
+        {
+            if(p1._tinta == t1 && p1._Cantidad >= 10)
+            {
+                p1._Cantidad -= 10;
+            }
+            return p1;
+        }
+
 
     }
 }

@@ -9,3 +9,14 @@ D:\VisualStudio\Clase05.test\Clase05.test\obj\Debug\Clase05.test.csproj.CoreComp
 D:\VisualStudio\Clase05.test\Clase05.test\obj\Debug\Clase05.test.csproj.CopyComplete
 D:\VisualStudio\Clase05.test\Clase05.test\obj\Debug\Clase05.test.exe
 D:\VisualStudio\Clase05.test\Clase05.test\obj\Debug\Clase05.test.pdb
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\Clase05.test\Clase05.test\bin\Debug\Clase05.test.exe.config
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\Clase05.test\Clase05.test\bin\Debug\Clase05.test.exe
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\Clase05.test\Clase05.test\bin\Debug\Clase05.test.pdb
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\Clase05.test\Clase05.test\bin\Debug\Clase05.Entidades.dll
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\Clase05.test\Clase05.test\bin\Debug\Clase05.Entidades.pdb
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\Clase05.test\Clase05.test\bin\Debug\Clase05.Entidades.dll.config
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\Clase05.test\Clase05.test\obj\Debug\Clase05.test.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\Clase05.test\Clase05.test\obj\Debug\Clase05.test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\Clase05.test\Clase05.test\obj\Debug\Clase05.test.csproj.CopyComplete
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\Clase05.test\Clase05.test\obj\Debug\Clase05.test.exe
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\Clase05.test\Clase05.test\obj\Debug\Clase05.test.pdb

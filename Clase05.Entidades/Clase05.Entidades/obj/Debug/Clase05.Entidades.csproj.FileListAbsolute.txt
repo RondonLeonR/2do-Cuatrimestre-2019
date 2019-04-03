@@ -5,3 +5,10 @@ D:\VisualStudio\Clase05.Entidades\Clase05.Entidades\obj\Debug\Clase05.Entidades.
 D:\VisualStudio\Clase05.Entidades\Clase05.Entidades\bin\Debug\Clase05.Entidades.dll.config
 D:\VisualStudio\Clase05.Entidades\Clase05.Entidades\bin\Debug\Clase05.Entidades.dll
 D:\VisualStudio\Clase05.Entidades\Clase05.Entidades\obj\Debug\Clase05.Entidades.dll
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\Clase05.Entidades\Clase05.Entidades\obj\Debug\Clase05.Entidades.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\Clase05.Entidades\Clase05.Entidades\obj\Debug\Clase05.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\Clase05.Entidades\Clase05.Entidades\obj\Debug\Clase05.Entidades.dll
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\Clase05.Entidades\Clase05.Entidades\obj\Debug\Clase05.Entidades.pdb
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\Clase05.Entidades\Clase05.Entidades\bin\Debug\Clase05.Entidades.dll.config
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\Clase05.Entidades\Clase05.Entidades\bin\Debug\Clase05.Entidades.dll
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\Clase05.Entidades\Clase05.Entidades\bin\Debug\Clase05.Entidades.pdb
