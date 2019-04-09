@@ -1,0 +1,10 @@
+D:\VisualStudio\Library06\Clase06.test\obj\Debug\Clase06.test.csprojAssemblyReference.cache
+D:\VisualStudio\Library06\Clase06.test\obj\Debug\Clase06.test.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Library06\Clase06.test\bin\Debug\Clase06.test.exe.config
+D:\VisualStudio\Library06\Clase06.test\bin\Debug\Clase06.test.exe
+D:\VisualStudio\Library06\Clase06.test\bin\Debug\Clase06.test.pdb
+D:\VisualStudio\Library06\Clase06.test\bin\Debug\Library06.dll
+D:\VisualStudio\Library06\Clase06.test\bin\Debug\Library06.pdb
+D:\VisualStudio\Library06\Clase06.test\obj\Debug\Clase06.test.csproj.CopyComplete
+D:\VisualStudio\Library06\Clase06.test\obj\Debug\Clase06.test.exe
+D:\VisualStudio\Library06\Clase06.test\obj\Debug\Clase06.test.pdb
