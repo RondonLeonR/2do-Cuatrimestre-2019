@@ -1,0 +1,12 @@
+D:\VisualStudio\Library06\Library06\bin\Debug\Library06.dll
+D:\VisualStudio\Library06\Library06\bin\Debug\Library06.pdb
+D:\VisualStudio\Library06\Library06\obj\Debug\Library06.csprojAssemblyReference.cache
+D:\VisualStudio\Library06\Library06\obj\Debug\Library06.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Library06\Library06\obj\Debug\Library06.dll
+D:\VisualStudio\Library06\Library06\obj\Debug\Library06.pdb
+D:\VisualStudio\Rondon\Library06\Library06\obj\Debug\Library06.csprojAssemblyReference.cache
+D:\VisualStudio\Rondon\Library06\Library06\obj\Debug\Library06.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Rondon\Library06\Library06\obj\Debug\Library06.dll
+D:\VisualStudio\Rondon\Library06\Library06\obj\Debug\Library06.pdb
+D:\VisualStudio\Rondon\Library06\Library06\bin\Debug\Library06.dll
+D:\VisualStudio\Rondon\Library06\Library06\bin\Debug\Library06.pdb
