@@ -14,7 +14,7 @@ namespace Clase07Forms
     public partial class FrmPaleta : Form
     {
         private Paleta _miPaleta;
-
+        
         public Paleta MiPaleta
         {
             get { return _miPaleta; }
@@ -33,17 +33,30 @@ namespace Clase07Forms
         {
             FrmTempera frm = new FrmTempera();
             frm.ShowDialog();
-            MiPaleta += frm.MiTempera;
 
-            if(DialogResult == DialogResult.OK)
+            
+
+            if (frm.DialogResult == DialogResult.OK)
             {
-                MiPaleta += frm.MiTempera;
-
-                foreach(Tempera i in )
-                {
-                    listBox1.Items.Add(Tempera.Mostrar(i));
-                }
+                MiPaleta.Mistemperas = this.MiPaleta.Mistemperas + frm.MiTempera;
+                //foreach (Tempera i in Enum.GetValues(typeof(MiPaleta)))
+                //{
+                    listBox1.Items.Add(Tempera.Mostrar(MiPaleta.Mistemperas));
+                //}
             }
+            
+                
+
+            /*if (frm.DialogResult == DialogResult.OK)
+            {
+                MiPaleta = MiPaleta + frm.MiTempera;
+                MessageBox.Show("ssssss");
+                foreach(Tempera i in ))
+                {
+                  
+                    
+                }
+            }*/
         }
 
         private void FrmPaleta_Load(object sender, EventArgs e)
@@ -52,6 +65,16 @@ namespace Clase07Forms
         }
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnMenos_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listBox1_DoubleClick(object sender, EventArgs e)
         {
 
         }

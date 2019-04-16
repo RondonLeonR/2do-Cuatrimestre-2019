@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase07Forms", "Clase07Form
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase07", "..\Rondon\Clase07\Clase07\Clase07.csproj", "{1D4B3718-EAB4-4495-B0DF-699ACEFF82E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library06", "..\Rondon\Library06\Library06\Library06.csproj", "{57D09512-02B6-493B-89DF-AEAEF74114FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library06", "..\Library06\Library06\Library06.csproj", "{57D09512-02B6-493B-89DF-AEAEF74114FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

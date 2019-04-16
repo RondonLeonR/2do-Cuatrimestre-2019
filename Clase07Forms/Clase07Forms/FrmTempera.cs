@@ -23,8 +23,11 @@ namespace Clase07Forms
             }
 
         }
+
+
         public FrmTempera()
         {
+            
             InitializeComponent();
             foreach (ConsoleColor color in Enum.GetValues(typeof(ConsoleColor)))
             {
@@ -32,6 +35,10 @@ namespace Clase07Forms
             }
         }
 
+        public FrmTempera(Tempera a)
+        {
+            //this._miTempera = a; 
+        }
         private void FrmTempera_Load(object sender, EventArgs e)
         {
 
@@ -49,10 +56,10 @@ namespace Clase07Forms
 
         private void button1_Click(object sender, EventArgs e)
         {
+            this.DialogResult = DialogResult.OK;
             Tempera nuevaTempera = new Tempera((ConsoleColor)this.comboBox1.SelectedItem, textBox1.Text, sbyte.Parse(textBox2.Text));
             this._miTempera = nuevaTempera;
-            //MessageBox.Show(Tempera.Mostrar(nuevaTempera));
-            this.DialogResult = DialogResult.OK;
+            
  
         }
 

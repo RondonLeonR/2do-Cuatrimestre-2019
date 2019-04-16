@@ -13,3 +13,18 @@ D:\VisualStudio\Clase07Forms\Clase07Forms\obj\Debug\Clase07Forms.csproj.CopyComp
 D:\VisualStudio\Clase07Forms\Clase07Forms\obj\Debug\Clase07Forms.exe
 D:\VisualStudio\Clase07Forms\Clase07Forms\obj\Debug\Clase07Forms.pdb
 D:\VisualStudio\Clase07Forms\Clase07Forms\bin\Debug\Clase 06_classlibrary.dll
+D:\VisualStudio\Rondon\Clase07Forms\Clase07Forms\obj\Debug\Clase07Forms.csprojAssemblyReference.cache
+D:\VisualStudio\Rondon\Clase07Forms\Clase07Forms\obj\Debug\Clase07Forms.FrmPaleta.resources
+D:\VisualStudio\Rondon\Clase07Forms\Clase07Forms\obj\Debug\Clase07Forms.FrmTempera.resources
+D:\VisualStudio\Rondon\Clase07Forms\Clase07Forms\obj\Debug\Clase07Forms.Properties.Resources.resources
+D:\VisualStudio\Rondon\Clase07Forms\Clase07Forms\obj\Debug\Clase07Forms.csproj.GenerateResource.cache
+D:\VisualStudio\Rondon\Clase07Forms\Clase07Forms\obj\Debug\Clase07Forms.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Rondon\Clase07Forms\Clase07Forms\obj\Debug\Clase07Forms.exe
+D:\VisualStudio\Rondon\Clase07Forms\Clase07Forms\obj\Debug\Clase07Forms.pdb
+D:\VisualStudio\Rondon\Clase07Forms\Clase07Forms\bin\Debug\Clase07Forms.exe.config
+D:\VisualStudio\Rondon\Clase07Forms\Clase07Forms\bin\Debug\Clase07Forms.exe
+D:\VisualStudio\Rondon\Clase07Forms\Clase07Forms\bin\Debug\Clase07Forms.pdb
+D:\VisualStudio\Rondon\Clase07Forms\Clase07Forms\bin\Debug\Library06.dll
+D:\VisualStudio\Rondon\Clase07Forms\Clase07Forms\bin\Debug\Library06.pdb
+D:\VisualStudio\Rondon\Clase07Forms\Clase07Forms\obj\Debug\Clase07Forms.csproj.CopyComplete
+D:\VisualStudio\Rondon\Clase07Forms\Clase07Forms\obj\Debug\Clase07Forms.FrmPrincipal.resources
