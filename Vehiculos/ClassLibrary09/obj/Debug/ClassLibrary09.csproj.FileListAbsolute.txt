@@ -1,0 +1,10 @@
+D:\VisualStudio\Vehiculos\ClassLibrary09\bin\Debug\ClassLibrary09.exe.config
+D:\VisualStudio\Vehiculos\ClassLibrary09\bin\Debug\ClassLibrary09.exe
+D:\VisualStudio\Vehiculos\ClassLibrary09\bin\Debug\ClassLibrary09.pdb
+D:\VisualStudio\Vehiculos\ClassLibrary09\bin\Debug\Vehiculos.dll
+D:\VisualStudio\Vehiculos\ClassLibrary09\bin\Debug\Vehiculos.pdb
+D:\VisualStudio\Vehiculos\ClassLibrary09\obj\Debug\ClassLibrary09.csprojAssemblyReference.cache
+D:\VisualStudio\Vehiculos\ClassLibrary09\obj\Debug\ClassLibrary09.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Vehiculos\ClassLibrary09\obj\Debug\ClassLibrary09.csproj.CopyComplete
+D:\VisualStudio\Vehiculos\ClassLibrary09\obj\Debug\ClassLibrary09.exe
+D:\VisualStudio\Vehiculos\ClassLibrary09\obj\Debug\ClassLibrary09.pdb

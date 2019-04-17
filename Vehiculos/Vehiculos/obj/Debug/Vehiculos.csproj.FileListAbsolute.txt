@@ -1,0 +1,6 @@
+D:\VisualStudio\Vehiculos\Vehiculos\bin\Debug\Vehiculos.dll
+D:\VisualStudio\Vehiculos\Vehiculos\bin\Debug\Vehiculos.pdb
+D:\VisualStudio\Vehiculos\Vehiculos\obj\Debug\Vehiculos.csprojAssemblyReference.cache
+D:\VisualStudio\Vehiculos\Vehiculos\obj\Debug\Vehiculos.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Vehiculos\Vehiculos\obj\Debug\Vehiculos.dll
+D:\VisualStudio\Vehiculos\Vehiculos\obj\Debug\Vehiculos.pdb
