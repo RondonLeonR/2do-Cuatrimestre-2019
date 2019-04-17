@@ -10,3 +10,9 @@ D:\VisualStudio\Rondon\Library06\Library06\obj\Debug\Library06.dll
 D:\VisualStudio\Rondon\Library06\Library06\obj\Debug\Library06.pdb
 D:\VisualStudio\Rondon\Library06\Library06\bin\Debug\Library06.dll
 D:\VisualStudio\Rondon\Library06\Library06\bin\Debug\Library06.pdb
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\2do-Cuatrimestre-2019\Library06\Library06\bin\Debug\Library06.dll
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\2do-Cuatrimestre-2019\Library06\Library06\bin\Debug\Library06.pdb
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\2do-Cuatrimestre-2019\Library06\Library06\obj\Debug\Library06.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\2do-Cuatrimestre-2019\Library06\Library06\obj\Debug\Library06.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\2do-Cuatrimestre-2019\Library06\Library06\obj\Debug\Library06.dll
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\2do-Cuatrimestre-2019\Library06\Library06\obj\Debug\Library06.pdb

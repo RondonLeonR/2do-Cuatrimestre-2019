@@ -32,15 +32,13 @@ namespace Clase07Forms
 
         }
 
-        private void btnAgregar_Click(object sender, EventArgs e)
-        {
-            
-        }
 
         private void agregarToolStripMenuItem_Click(object sender, EventArgs e)
         {
             FrmPaleta paleta = new FrmPaleta();
-            paleta.Show(this);
+            paleta.MdiParent = this;
+            paleta.StartPosition = FormStartPosition.CenterScreen;
+            paleta.Show();
         }
 
         private void salirToolStripMenuItem_Click(object sender, EventArgs e)

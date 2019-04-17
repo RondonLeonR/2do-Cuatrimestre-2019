@@ -12,6 +12,9 @@ namespace Library06
         private string _marca;
         private sbyte _cantidad;
 
+        public ConsoleColor Color { get { return this._color; } set { this._color = value; } }
+        public string Marca { get { return this._marca; } set { this._marca = value; } }
+
         public Tempera(ConsoleColor color,string marca,sbyte cantidad)
         {
             this._color = color;

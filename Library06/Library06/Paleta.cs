@@ -9,8 +9,17 @@ namespace Library06
 {
     public class Paleta
     {
-        private Tempera[] _temperas;
+        
         private int _cantidadMaxima;
+        /*Cambio array por lista de Temperas List<Temperas>*/
+        private List<Tempera> _temperas;
+
+        public List<Tempera> MisTemperas
+        {
+            get { return  this._temperas; }
+           
+        }
+
 
         private Paleta() : this(5)
         {
@@ -19,14 +28,17 @@ namespace Library06
 
         private Paleta(int a) 
         {
-            this._temperas = new Tempera[a];
             this._cantidadMaxima = a;
+            this._temperas = new List<Tempera>(a);
+            for (int i = 0; i < this._cantidadMaxima; i++)
+            {
+                this._temperas.Insert(i, null);
+            }
         }
 
         public static implicit operator Paleta(int cant)
-        {
-            Paleta paletas = new Paleta(cant);
-            return paletas;
+        {           
+            return new Paleta(cant);
         }
 
         public string Mostrar()
@@ -35,8 +47,11 @@ namespace Library06
 
             foreach(Tempera t in this._temperas)
             {
-                texto += Tempera.Mostrar(t);
-                return texto; 
+                if(t != null)
+                {
+                    texto += Tempera.Mostrar(t);      
+                }
+               
             }
 
             return "Cant" + this._cantidadMaxima.ToString() + "Temperas" + texto.ToString();
@@ -44,17 +59,18 @@ namespace Library06
 
         public static explicit operator string(Paleta p1)
         {
-            return p1._temperas.ToString();
+            return p1.Mostrar();
         }
 
         public static bool operator ==(Paleta p1, Tempera t1)
         {
             Boolean retorno = false;
-            foreach(Tempera t in p1._temperas)
+            foreach(Tempera t in p1.MisTemperas)
             {
                 if(t == t1)
                 {
                     retorno = true;
+                    break;
                 }
             }
             return retorno;
@@ -68,23 +84,39 @@ namespace Library06
         private int ObtenerIndice()
         {
             int ret = -1;
-            foreach(Tempera t in this._temperas)
-            { 
-                if (t==null)
+            int i = 0;
+             
+            if(this._temperas.Count != 0)
+            {
+                foreach (Tempera t in this.MisTemperas)
                 {
-                    ret = t;
+                    if (Equals(t,null))
+                    {
+                        ret = i;
+                        break;
+                    }
+                    if(i >= this._cantidadMaxima)
+                    {
+                        break;
+                    }
+                    i++;
                 }
             }
+            
             return ret;
         }
 
         public static Paleta operator +(Paleta p1, Tempera t1)
         {
             int indice;
-            if (!(p1 == t1))
+            if (p1 != t1)
             {
                 indice = p1.ObtenerIndice();
-                p1._temperas[indice] = t1;
+                if(indice >= 0 && indice < p1._cantidadMaxima)
+                {
+                    p1._temperas.Insert(indice, t1);
+                }
+                
             }
             return p1;
         }

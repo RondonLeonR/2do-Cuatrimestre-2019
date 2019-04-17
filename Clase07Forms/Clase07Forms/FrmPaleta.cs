@@ -26,7 +26,7 @@ namespace Clase07Forms
         public FrmPaleta()
         {
             InitializeComponent();
-            MiPaleta = 5;
+            this.MiPaleta = 5;
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -38,25 +38,19 @@ namespace Clase07Forms
 
             if (frm.DialogResult == DialogResult.OK)
             {
-                MiPaleta.Mistemperas = this.MiPaleta.Mistemperas + frm.MiTempera;
-                //foreach (Tempera i in Enum.GetValues(typeof(MiPaleta)))
-                //{
-                    listBox1.Items.Add(Tempera.Mostrar(MiPaleta.Mistemperas));
-                //}
+                this.MiPaleta += frm.MiTempera;
+                this.listBox1.Items.Clear();//Limpio la Lista
+
+                foreach (Tempera i in this.MiPaleta.MisTemperas)
+                {
+                    if(!Equals(i,null))
+                    {
+                        listBox1.Items.Add(Tempera.Mostrar(i));
+                    }
+                }
             }
             
-                
-
-            /*if (frm.DialogResult == DialogResult.OK)
-            {
-                MiPaleta = MiPaleta + frm.MiTempera;
-                MessageBox.Show("ssssss");
-                foreach(Tempera i in ))
-                {
-                  
-                    
-                }
-            }*/
+               
         }
 
         private void FrmPaleta_Load(object sender, EventArgs e)

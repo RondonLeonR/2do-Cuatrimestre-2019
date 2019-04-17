@@ -21,6 +21,10 @@ namespace Clase07Forms
             {
                 return _miTempera;
             }
+            set
+            {
+                _miTempera = value;
+            }
 
         }
 
@@ -29,15 +33,24 @@ namespace Clase07Forms
         {
             
             InitializeComponent();
+
             foreach (ConsoleColor color in Enum.GetValues(typeof(ConsoleColor)))
             {
                 comboBox1.Items.Add(color);
             }
+
+            this.comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
+            this.comboBox1.SelectedIndex = 0;
         }
 
-        public FrmTempera(Tempera a)
+        public FrmTempera(Tempera tempera) : this()
         {
-            //this._miTempera = a; 
+            MiTempera = tempera;
+            sbyte cantidad = MiTempera;
+            this.textBox1.Text = MiTempera.Marca;
+            this.textBox2.Text = cantidad.ToString();
+            this.comboBox1.SelectedItem = MiTempera.Color;
+            
         }
         private void FrmTempera_Load(object sender, EventArgs e)
         {
@@ -57,7 +70,7 @@ namespace Clase07Forms
         private void button1_Click(object sender, EventArgs e)
         {
             this.DialogResult = DialogResult.OK;
-            Tempera nuevaTempera = new Tempera((ConsoleColor)this.comboBox1.SelectedItem, textBox1.Text, sbyte.Parse(textBox2.Text));
+            Tempera nuevaTempera = new Tempera((ConsoleColor)this.comboBox1.SelectedItem, this.textBox1.Text, sbyte.Parse(this.textBox2.Text));
             this._miTempera = nuevaTempera;
             
  
