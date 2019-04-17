@@ -59,16 +59,40 @@ namespace Vehiculos
             return retorno;
         }
 
-        public static bool operator ==(List<Vehiculo> lista, Vehiculo v)
+        public static bool operator ==(Lavadero lav, Vehiculo v)
         {
             bool retorno = false;
-            foreach(Vehiculo a in lista)
+            foreach(Vehiculo a in lav.Vehiculos)
             {
                 if (a == v)
                     retorno = true;
             }
             return retorno;
         }
+
+        public static bool operator !=(Lavadero lav, Vehiculo v)
+        {
+            return !(lav == v);
+        }
+
+        public static Lavadero operator +(Lavadero lav, Vehiculo v)
+        {
+            if(lav == v)
+            {
+                lav.Vehiculos.Add(v);
+            }
+            return lav;
+        }
+
+        public static Lavadero operator -(Lavadero lav, Vehiculo v)
+        {
+            if(lav == v)
+            {
+                lav.Vehiculos.Remove(v);
+            }
+            return lav;
+        }
+
 
     }
 }
