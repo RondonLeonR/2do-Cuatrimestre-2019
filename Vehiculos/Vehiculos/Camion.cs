@@ -10,15 +10,34 @@ namespace Vehiculos
     {
         protected double _tara;
 
-        public Camion(string a,Byte b,EMarca c, double d) : base(a,b,c)
+        public override double Precio
         {
-            this._tara = d;
+            get ;
+            set ;
         }
 
-        public string MostrarCamion()
+        public Camion(string a,Byte b,EMarca c, double d,double precio) : base(a,b,c)
         {
-            string retorno = Mostrar() + " - " + this._tara.ToString();
+            this._tara = d;
+            this.Precio = precio;
+        }
+
+        public override string ToString()
+        {
+            return base.ToString() + " - " + this._tara.ToString();
+        }
+
+        public override double CalcularPrecioConIVA()
+        {
+            double retorno;
+            retorno =this.Precio + ((this.Precio * 21) / 100);
             return retorno;
         }
+
+        ////public string MostrarCamion()
+        ////{
+        ////    string retorno = Mostrar() + " - " + this._tara.ToString();
+        ////    return retorno;
+        ////}
     }
 }

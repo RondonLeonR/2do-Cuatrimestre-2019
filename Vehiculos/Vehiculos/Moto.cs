@@ -10,15 +10,34 @@ namespace Vehiculos
     {
         protected float _cilindrada;
 
-        public Moto(string a, Byte b, EMarca c, float d) : base(a, b, c)
+        public override double Precio
+        {
+            get ;
+            set ;
+        }
+
+        public Moto(string a, Byte b, EMarca c, float d, double precio) : base(a, b, c)
         {
             this._cilindrada = d;
+            this.Precio = precio;
         }
-    
-        public string MostrarMoto()
+
+        public override string ToString()
         {
-            string retorno = base.Mostrar() + " - " + this._cilindrada.ToString();
+            return base.ToString() + " - " + this._cilindrada.ToString();
+        }
+
+        public override double CalcularPrecioConIVA()
+        {
+            double retorno;
+            retorno = this.Precio + ((this.Precio * 21) / 100);
             return retorno;
         }
+
+        //public string MostrarMoto()
+        //{
+        //    string retorno = base.Mostrar() + " - " + this._cilindrada.ToString();
+        //    return retorno;
+        //}
     }
 }

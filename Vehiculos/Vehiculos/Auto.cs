@@ -10,15 +10,35 @@ namespace Vehiculos
     {
         protected int _cantidadAsientos;
 
-        public Auto(string a, Byte b, EMarca c, int d) : base(a, b, c)
+        public override double Precio
         {
-            this._cantidadAsientos = d;
+            get ;
+            set ;
         }
 
-        public string MostrarAuto()
+
+        public Auto(string a, Byte b, EMarca c, int d, double precio) : base(a, b, c)
         {
-            string retorno = base.Mostrar() + " - " + this._cantidadAsientos.ToString();
+            this._cantidadAsientos = d;
+            this.Precio = precio;
+            
+    }
+
+        public override double CalcularPrecioConIVA()
+        {
+            double retorno;
+            retorno =this.Precio + ((this.Precio * 21) / 100); 
             return retorno;
         }
+
+        public override string ToString()
+        {
+            return base.ToString() + " - " + this._cantidadAsientos.ToString();
+        }
+        //public string MostrarAuto()
+        //{
+        //    string retorno = base.Mostrar() + " - " + this._cantidadAsientos.ToString();
+        //    return retorno;
+        //}
     }
 }
