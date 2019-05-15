@@ -1,0 +1,10 @@
+D:\VisualStudio\Clase16\frmPrincipal\bin\Debug\frmPrincipal.exe.config
+D:\VisualStudio\Clase16\frmPrincipal\bin\Debug\frmPrincipal.exe
+D:\VisualStudio\Clase16\frmPrincipal\bin\Debug\frmPrincipal.pdb
+D:\VisualStudio\Clase16\frmPrincipal\obj\Debug\frmPrincipal.csprojAssemblyReference.cache
+D:\VisualStudio\Clase16\frmPrincipal\obj\Debug\frmPrincipal.frmPrincipal.resources
+D:\VisualStudio\Clase16\frmPrincipal\obj\Debug\frmPrincipal.Properties.Resources.resources
+D:\VisualStudio\Clase16\frmPrincipal\obj\Debug\frmPrincipal.csproj.GenerateResource.cache
+D:\VisualStudio\Clase16\frmPrincipal\obj\Debug\frmPrincipal.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Clase16\frmPrincipal\obj\Debug\frmPrincipal.exe
+D:\VisualStudio\Clase16\frmPrincipal\obj\Debug\frmPrincipal.pdb
