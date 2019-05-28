@@ -8,7 +8,7 @@ namespace RondonLeon.Rodolfo._2A
 {
     public class Exportador : Comercio
     {
-        ETipoProducto tipo = new ETipoProducto();
+        ETipoProducto tipo;
         
         public Exportador(string nombreComercio, float precioAlquiler, string nombre,string apellido, ETipoProducto tipo) : base(precioAlquiler, nombreComercio, nombre, apellido)
         {
@@ -18,13 +18,13 @@ namespace RondonLeon.Rodolfo._2A
         /*Terminar*/
         public string Mostrar()
         {
-            return "Tipo de Producto: " + this.tipo.ToString() + base.ToString();
+            return ((Comercio)this) + "\nTipo: " + this.tipo.ToString() + "\n";
         }
 
         public static bool operator ==(Exportador a, Exportador b)
         {
             bool retorno = false;
-            if(a == b && a.tipo == b.tipo)
+            if(a.GetType() == b.GetType() && (Comercio)a == (Comercio)b)
             {
                 retorno = true;
             }
@@ -38,7 +38,7 @@ namespace RondonLeon.Rodolfo._2A
 
         public static implicit operator double(Exportador m)
         {
-            return (double) m._precioAlquiler;
+            return m._precioAlquiler;
         }
     }
 }

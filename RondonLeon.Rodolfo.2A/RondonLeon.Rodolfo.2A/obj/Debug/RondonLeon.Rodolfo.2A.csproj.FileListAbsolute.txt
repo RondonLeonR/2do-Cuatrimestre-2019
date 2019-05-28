@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\2do-Cuatrimestre-2019\RondonLeon.Rodolfo.2A\RondonLeon.Rodolfo.2A\obj\Debug\RondonLeon.Rodolfo.2A.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\2do-Cuatrimestre-2019\RondonLeon.Rodolfo.2A\RondonLeon.Rodolfo.2A\obj\Debug\RondonLeon.Rodolfo.2A.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\2do-Cuatrimestre-2019\RondonLeon.Rodolfo.2A\RondonLeon.Rodolfo.2A\bin\Debug\RondonLeon.Rodolfo.2A.dll
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\2do-Cuatrimestre-2019\RondonLeon.Rodolfo.2A\RondonLeon.Rodolfo.2A\bin\Debug\RondonLeon.Rodolfo.2A.pdb
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\2do-Cuatrimestre-2019\RondonLeon.Rodolfo.2A\RondonLeon.Rodolfo.2A\obj\Debug\RondonLeon.Rodolfo.2A.dll
+C:\Users\user\Desktop\Rondon\2do-Cuatrimestre-2019\2do-Cuatrimestre-2019\RondonLeon.Rodolfo.2A\RondonLeon.Rodolfo.2A\obj\Debug\RondonLeon.Rodolfo.2A.pdb
