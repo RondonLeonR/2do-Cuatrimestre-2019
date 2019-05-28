@@ -1,0 +1,6 @@
+D:\VisualStudio\Entidades.28.05\Entidades.2\bin\Debug\Entidades.2.dll
+D:\VisualStudio\Entidades.28.05\Entidades.2\bin\Debug\Entidades.2.pdb
+D:\VisualStudio\Entidades.28.05\Entidades.2\obj\Debug\Entidades.2.csprojAssemblyReference.cache
+D:\VisualStudio\Entidades.28.05\Entidades.2\obj\Debug\Entidades.2.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Entidades.28.05\Entidades.2\obj\Debug\Entidades.2.dll
+D:\VisualStudio\Entidades.28.05\Entidades.2\obj\Debug\Entidades.2.pdb

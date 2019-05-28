@@ -1,0 +1,9 @@
+D:\VisualStudio\Entidades.28.05\Entidades.28.05\bin\Debug\netstandard2.0\Entidades.28.05.deps.json
+D:\VisualStudio\Entidades.28.05\Entidades.28.05\bin\Debug\netstandard2.0\Entidades.28.05.dll
+D:\VisualStudio\Entidades.28.05\Entidades.28.05\bin\Debug\netstandard2.0\Entidades.28.05.pdb
+D:\VisualStudio\Entidades.28.05\Entidades.28.05\obj\Debug\netstandard2.0\Entidades.28.05.csprojAssemblyReference.cache
+D:\VisualStudio\Entidades.28.05\Entidades.28.05\obj\Debug\netstandard2.0\Entidades.28.05.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Entidades.28.05\Entidades.28.05\obj\Debug\netstandard2.0\Entidades.28.05.AssemblyInfoInputs.cache
+D:\VisualStudio\Entidades.28.05\Entidades.28.05\obj\Debug\netstandard2.0\Entidades.28.05.AssemblyInfo.cs
+D:\VisualStudio\Entidades.28.05\Entidades.28.05\obj\Debug\netstandard2.0\Entidades.28.05.dll
+D:\VisualStudio\Entidades.28.05\Entidades.28.05\obj\Debug\netstandard2.0\Entidades.28.05.pdb
