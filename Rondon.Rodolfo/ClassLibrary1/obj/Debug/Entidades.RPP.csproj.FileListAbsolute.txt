@@ -1,0 +1,6 @@
+D:\VisualStudio\Rondon.Rodolfo\ClassLibrary1\obj\Debug\Entidades.RPP.csprojAssemblyReference.cache
+D:\VisualStudio\Rondon.Rodolfo\ClassLibrary1\obj\Debug\Entidades.RPP.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Rondon.Rodolfo\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\VisualStudio\Rondon.Rodolfo\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\VisualStudio\Rondon.Rodolfo\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\VisualStudio\Rondon.Rodolfo\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

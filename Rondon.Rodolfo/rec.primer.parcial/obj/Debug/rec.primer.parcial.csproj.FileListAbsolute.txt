@@ -1,0 +1,13 @@
+D:\VisualStudio\Rondon.Rodolfo\rec.primer.parcial\obj\Debug\rec.primer.parcial.csprojAssemblyReference.cache
+D:\VisualStudio\Rondon.Rodolfo\rec.primer.parcial\obj\Debug\rec.primer.parcial.Form1.resources
+D:\VisualStudio\Rondon.Rodolfo\rec.primer.parcial\obj\Debug\rec.primer.parcial.Properties.Resources.resources
+D:\VisualStudio\Rondon.Rodolfo\rec.primer.parcial\obj\Debug\rec.primer.parcial.csproj.GenerateResource.cache
+D:\VisualStudio\Rondon.Rodolfo\rec.primer.parcial\obj\Debug\rec.primer.parcial.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Rondon.Rodolfo\rec.primer.parcial\bin\Debug\rec.primer.parcial.exe.config
+D:\VisualStudio\Rondon.Rodolfo\rec.primer.parcial\bin\Debug\rec.primer.parcial.exe
+D:\VisualStudio\Rondon.Rodolfo\rec.primer.parcial\bin\Debug\rec.primer.parcial.pdb
+D:\VisualStudio\Rondon.Rodolfo\rec.primer.parcial\bin\Debug\ClassLibrary1.dll
+D:\VisualStudio\Rondon.Rodolfo\rec.primer.parcial\bin\Debug\ClassLibrary1.pdb
+D:\VisualStudio\Rondon.Rodolfo\rec.primer.parcial\obj\Debug\rec.primer.parcial.csproj.CopyComplete
+D:\VisualStudio\Rondon.Rodolfo\rec.primer.parcial\obj\Debug\rec.primer.parcial.exe
+D:\VisualStudio\Rondon.Rodolfo\rec.primer.parcial\obj\Debug\rec.primer.parcial.pdb
