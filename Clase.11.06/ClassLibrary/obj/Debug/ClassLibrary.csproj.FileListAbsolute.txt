@@ -1,0 +1,7 @@
+D:\VisualStudio\Clase.11.06\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+D:\VisualStudio\Clase.11.06\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\VisualStudio\Clase.11.06\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\VisualStudio\Clase.11.06\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+D:\VisualStudio\Clase.11.06\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Clase.11.06\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\VisualStudio\Clase.11.06\ClassLibrary\obj\Debug\ClassLibrary.pdb
