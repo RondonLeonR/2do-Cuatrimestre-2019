@@ -1,0 +1,14 @@
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\frmListado\bin\Debug\frmListado.exe.config
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\frmListado\bin\Debug\frmListado.exe
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\frmListado\bin\Debug\frmListado.pdb
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\frmListado\bin\Debug\ClassLibrary.dll
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\frmListado\bin\Debug\ClassLibrary.pdb
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\frmListado\bin\Debug\ClassLibrary.dll.config
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\frmListado\obj\Debug\frmListado.csprojAssemblyReference.cache
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\frmListado\obj\Debug\frmListado.Form1.resources
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\frmListado\obj\Debug\frmListado.Properties.Resources.resources
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\frmListado\obj\Debug\frmListado.csproj.GenerateResource.cache
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\frmListado\obj\Debug\frmListado.csproj.CoreCompileInputs.cache
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\frmListado\obj\Debug\frmListado.csproj.CopyComplete
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\frmListado\obj\Debug\frmListado.exe
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\frmListado\obj\Debug\frmListado.pdb

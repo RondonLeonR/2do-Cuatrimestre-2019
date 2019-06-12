@@ -9,3 +9,14 @@ D:\VisualStudio\Clase.11.06\test\obj\Debug\test.csproj.CoreCompileInputs.cache
 D:\VisualStudio\Clase.11.06\test\obj\Debug\test.csproj.CopyComplete
 D:\VisualStudio\Clase.11.06\test\obj\Debug\test.exe
 D:\VisualStudio\Clase.11.06\test\obj\Debug\test.pdb
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\test\bin\Debug\test.exe.config
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\test\bin\Debug\test.exe
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\test\bin\Debug\test.pdb
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\test\bin\Debug\ClassLibrary.dll
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\test\bin\Debug\ClassLibrary.pdb
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\test\bin\Debug\ClassLibrary.dll.config
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\test\obj\Debug\test.csproj.CopyComplete
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\test\obj\Debug\test.exe
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\test\obj\Debug\test.pdb

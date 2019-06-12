@@ -5,3 +5,10 @@ D:\VisualStudio\Clase.11.06\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyRe
 D:\VisualStudio\Clase.11.06\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
 D:\VisualStudio\Clase.11.06\ClassLibrary\obj\Debug\ClassLibrary.dll
 D:\VisualStudio\Clase.11.06\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Rondon.12.06\2do-Cuatrimestre-2019\Clase.11.06\ClassLibrary\obj\Debug\ClassLibrary.pdb

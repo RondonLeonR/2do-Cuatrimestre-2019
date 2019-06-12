@@ -23,7 +23,7 @@ namespace ClassLibrary
 
         public override string ToString()
         {
-            return this.id.ToString() + " - " + this.nombre.ToString() + " - " + this.apellido.ToString() + " - " + this.edad.ToString();
+            return this.id.ToString() + " - " + this.nombre + " - " + this.apellido + " - " + this.edad.ToString();
         }
     }
 }
