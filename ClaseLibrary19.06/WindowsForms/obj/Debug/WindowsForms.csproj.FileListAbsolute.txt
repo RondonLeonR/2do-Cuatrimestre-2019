@@ -1,0 +1,13 @@
+D:\VisualStudio\ClaseLibrary19.06\WindowsForms\bin\Debug\WindowsForms.exe.config
+D:\VisualStudio\ClaseLibrary19.06\WindowsForms\bin\Debug\WindowsForms.exe
+D:\VisualStudio\ClaseLibrary19.06\WindowsForms\bin\Debug\WindowsForms.pdb
+D:\VisualStudio\ClaseLibrary19.06\WindowsForms\bin\Debug\ClaseLibrary19.06.dll
+D:\VisualStudio\ClaseLibrary19.06\WindowsForms\bin\Debug\ClaseLibrary19.06.pdb
+D:\VisualStudio\ClaseLibrary19.06\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+D:\VisualStudio\ClaseLibrary19.06\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+D:\VisualStudio\ClaseLibrary19.06\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+D:\VisualStudio\ClaseLibrary19.06\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+D:\VisualStudio\ClaseLibrary19.06\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ClaseLibrary19.06\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
+D:\VisualStudio\ClaseLibrary19.06\WindowsForms\obj\Debug\WindowsForms.exe
+D:\VisualStudio\ClaseLibrary19.06\WindowsForms\obj\Debug\WindowsForms.pdb

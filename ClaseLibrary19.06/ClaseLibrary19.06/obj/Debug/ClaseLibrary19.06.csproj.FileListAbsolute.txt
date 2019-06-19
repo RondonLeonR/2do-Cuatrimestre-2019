@@ -1,0 +1,6 @@
+D:\VisualStudio\ClaseLibrary19.06\ClaseLibrary19.06\bin\Debug\ClaseLibrary19.06.dll
+D:\VisualStudio\ClaseLibrary19.06\ClaseLibrary19.06\bin\Debug\ClaseLibrary19.06.pdb
+D:\VisualStudio\ClaseLibrary19.06\ClaseLibrary19.06\obj\Debug\ClaseLibrary19.06.csprojAssemblyReference.cache
+D:\VisualStudio\ClaseLibrary19.06\ClaseLibrary19.06\obj\Debug\ClaseLibrary19.06.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ClaseLibrary19.06\ClaseLibrary19.06\obj\Debug\ClaseLibrary19.06.dll
+D:\VisualStudio\ClaseLibrary19.06\ClaseLibrary19.06\obj\Debug\ClaseLibrary19.06.pdb

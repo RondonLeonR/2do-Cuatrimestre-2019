@@ -1,0 +1,10 @@
+D:\VisualStudio\ClaseLibrary19.06\test\bin\Debug\test.exe.config
+D:\VisualStudio\ClaseLibrary19.06\test\bin\Debug\test.exe
+D:\VisualStudio\ClaseLibrary19.06\test\bin\Debug\test.pdb
+D:\VisualStudio\ClaseLibrary19.06\test\bin\Debug\ClaseLibrary19.06.dll
+D:\VisualStudio\ClaseLibrary19.06\test\bin\Debug\ClaseLibrary19.06.pdb
+D:\VisualStudio\ClaseLibrary19.06\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\VisualStudio\ClaseLibrary19.06\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ClaseLibrary19.06\test\obj\Debug\test.csproj.CopyComplete
+D:\VisualStudio\ClaseLibrary19.06\test\obj\Debug\test.exe
+D:\VisualStudio\ClaseLibrary19.06\test\obj\Debug\test.pdb
