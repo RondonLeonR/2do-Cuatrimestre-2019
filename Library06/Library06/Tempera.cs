@@ -10,7 +10,7 @@ namespace Library06
     {
         private ConsoleColor _color;
         private string _marca;
-        private sbyte _cantidad;
+        public sbyte _cantidad;
 
         public ConsoleColor Color { get { return this._color; } set { this._color = value; } }
         public string Marca { get { return this._marca; } set { this._marca = value; } }

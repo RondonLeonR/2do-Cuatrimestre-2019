@@ -20,6 +20,18 @@ namespace Library06
            
         }
 
+        public Tempera this[int index]
+        {
+            get
+            {
+                return this._temperas[index];
+            }
+            //set
+            //{
+            //    this._temperas[index] = value;
+            //}
+        }
+
 
         private Paleta() : this(5)
         {
@@ -119,6 +131,30 @@ namespace Library06
                 
             }
             return p1;
+        }
+
+        public static Paleta operator -(Paleta p1, Tempera t1)
+        {
+            for (int i = 0; i <= p1._temperas.Count; i++)
+            {
+                if(i == t1)
+                {
+                    if(1 < (p1._temperas[i]._cantidad -= t1._cantidad))
+                    {
+                        p1._temperas.RemoveAt(i);
+                    }
+                }
+            }
+                //for(int i = 0; i < p1._temperas.Count; i++)
+                //{
+                //    if(p1._temperas[i] == t1)
+                //    {
+                //        p1._temperas.RemoveAt(i);
+                //    }
+                //}
+            
+            return p1;
+            
         }
     }
 }

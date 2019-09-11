@@ -65,12 +65,45 @@ namespace Clase07Forms
 
         private void btnMenos_Click(object sender, EventArgs e)
         {
+            FrmTempera frm = new FrmTempera();
+            frm.ShowDialog();
+
+            this.MiPaleta -= frm.MiTempera;
+            this.listBox1.Items.Clear();
+            foreach (Tempera i in this.MiPaleta.MisTemperas)
+            {
+                if (!Equals(i, null))
+                {
+                    listBox1.Items.Add(Tempera.Mostrar(i));
+                }
+            }
+            
+            //int indice = this.listBox1.SelectedIndex;
+            //this.listBox1.Items.RemoveAt(indice);
+            //this.MiPaleta -= this.MiPaleta.MisTemperas[indice];
 
         }
 
         private void listBox1_DoubleClick(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnModificar_Click(object sender, EventArgs e)
+        {
+            //MessageBox.Show(index.ToString());
+            FrmTempera  p = new FrmTempera(this.MiPaleta.MisTemperas[this.listBox1.SelectedIndex]);
+            p.ShowDialog();
+
+            this.MiPaleta.MisTemperas[this.listBox1.SelectedIndex] = p.MiTempera;
+            this.listBox1.Items.Clear();
+            foreach (Tempera i in this.MiPaleta.MisTemperas)
+            {
+                if (!Equals(i, null))
+                {
+                    listBox1.Items.Add(Tempera.Mostrar(i));
+                }
+            }
         }
     }
 }
